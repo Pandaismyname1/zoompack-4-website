@@ -51,7 +51,7 @@ export default function ExtraPerformancePage() {
           <li>In Prism Launcher from the top bar, open Settings, navigate to Java</li>
           <li>In the JVM arguments field, paste the following:</li>
         </ol>
-        <div className="bg-purple-300 p-4 m-4 rounded">
+        <div className="bg-orange-200 p-4 m-4 rounded">
           <code>
             -XX:+UnlockExperimentalVMOptions -XX:+UseJVMCICompiler -XX:+UnlockDiagnosticVMOptions -Dterminal.jline=false
             -Dterminal.ansi=true -Djline.terminal=jline.UnsupportedTerminal -Dlog4j2.formatMsgNoLookups=true
