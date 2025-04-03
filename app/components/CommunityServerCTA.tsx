@@ -25,7 +25,7 @@ export default function CommunityServerCTA() {
                 transition={{duration: 0.8, delay: 0.2}}
             >
               <a
-                  href="https://discord.gg/say65Z3u"
+                  href="https://zoomers.tech/discord"
                   target="_blank"
                   className="apple-button inline-flex items-center"
               >
